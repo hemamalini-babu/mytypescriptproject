@@ -1,0 +1,23 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-html-reporters": "^3.1.7",
+    "jest-junit": "^16.0.0",
+    "supertest": "^6.3.4",
+    "ts-jest": "^29.1.2"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/supertest": "^6.0.2"
+  }
+}

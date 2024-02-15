@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="15.338">
+  <testsuite name="Categories" errors="0" failures="0" skipped="0" timestamp="2024-02-15T04:01:20" time="14.949" tests="4">
+    <testcase classname="Categories Fetch Categories GET /categories" name="Categories Fetch Categories GET /categories" time="2.289">
+    </testcase>
+    <testcase classname="Categories Create Categories POST /categories" name="Categories Create Categories POST /categories" time="1.268">
+    </testcase>
+    <testcase classname="Categories Update Categories PUT /categories/id" name="Categories Update Categories PUT /categories/id" time="1.125">
+    </testcase>
+    <testcase classname="Categories Delete Categories DELETE /categories/id" name="Categories Delete Categories DELETE /categories/id" time="1.113">
+    </testcase>
+  </testsuite>
+</testsuites>
